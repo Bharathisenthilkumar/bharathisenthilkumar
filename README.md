@@ -62,9 +62,11 @@
 ### 🧮 CodeChef
 <p align="center">
   <a href="https://www.codechef.com/users/bharathis28">
-    <img src="https://cp-logo.vercel.app/codechef/bharathis28" alt="CodeChef Stats" />
   </a>
 </p>
+
+- ✅ Solved: **500+ problems**
+- 🔗 [Visit My Profile](https://www.codechef.com/users/bharathis28)
 
 ---
 
@@ -102,7 +104,7 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: bharathis.ece2023@citchennai.net  
+- 📧 Email: bharathis.ece2023@citchennai.net  , bharathisenthilkumar28@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/bharathisenthilkumar28/)  
 - 💻 [GitHub](https://github.com/Bharathisenthilkumar)
 
